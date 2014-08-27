@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "staff1dev",
+    "mail": "staff1@example.com",
+    "field_user_display_name": "Staff 1",
+    "field_user_department": "Anthropology",
+    "field_user_title": "My title"
+  },
+  {
+    "id": 2,
+    "name": "staff2dev",
+    "mail": "staff2@example.com",
+    "field_user_display_name": "Staff 2",
+    "field_user_department": "Anthropology",
+    "field_user_title": "My title"
+  },
+  {
+    "id": 3,
+    "name": "staff3dev",
+    "mail": "staff3@example.com",
+    "field_user_display_name": "Staff 3",
+    "field_user_department": "Anthropology",
+    "field_user_title": "My title"
+  },
+  {
+    "id": 4,
+    "name": "staff4dev",
+    "mail": "staff4@example.com",
+    "field_user_display_name": "Staff 4",
+    "field_user_department": "Anthropology",
+    "field_user_title": "My title"
+  },
+  {
+    "id": 5,
+    "name": "staff5dev",
+    "mail": "staff5@example.com",
+    "field_user_display_name": "Staff 5",
+    "field_user_department": "Anthropology",
+    "field_user_title": "My title"
+  }
+]

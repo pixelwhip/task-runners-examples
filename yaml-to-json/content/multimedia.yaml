@@ -1,0 +1,38 @@
+---
+-
+  id: 1
+  title: Multimedia 1 Video
+  field_media_body: Bacon ipsum dolor sit amet swine pork belly ham, turkey doner bresaola tail. Tongue frankfurter short ribs, meatloaf turducken tri-tip brisket kielbasa pork loin pork belly. Ham beef sausage venison short ribs porchetta shank meatloaf beef ribs pork belly spare ribs. Capicola pork loin boudin pancetta, shankle hamburger kielbasa brisket jerky rump turducken corned beef shank jowl ham. Ribeye sausage short loin ham ham hock rump pancetta beef brisket. Sausage turducken chuck, meatloaf spare ribs fatback salami tongue shoulder. Frankfurter pork belly rump, flank chicken biltong tongue turducken.
+  field_media_type: Video
+  field_media_video: https://www.youtube.com/watch?v=0715NwUigQ4
+  field_media_year: 2014
+-
+  id: 2
+  title: Multimedia 2 Video
+  field_media_body: Bacon ipsum dolor sit amet swine pork belly ham, turkey doner bresaola tail. Tongue frankfurter short ribs, meatloaf turducken tri-tip brisket kielbasa pork loin pork belly. Ham beef sausage venison short ribs porchetta shank meatloaf beef ribs pork belly spare ribs. Capicola pork loin boudin pancetta, shankle hamburger kielbasa brisket jerky rump turducken corned beef shank jowl ham. Ribeye sausage short loin ham ham hock rump pancetta beef brisket. Sausage turducken chuck, meatloaf spare ribs fatback salami tongue shoulder. Frankfurter pork belly rump, flank chicken biltong tongue turducken.
+  field_media_type: Video
+  field_media_video: https://www.youtube.com/watch?v=GbX5AogJ3lw
+  field_media_year: 2014
+-
+  id: 3
+  title: Multimedia 3 Audio
+  field_media_body: Meatloaf strip steak ribeye pork belly jowl. Bacon capicola bresaola turducken pork belly, porchetta pig frankfurter brisket kielbasa cow jowl ham meatloaf. Shank turkey pork belly corned beef capicola. Doner ham boudin meatloaf. Landjaeger cow fatback ham, salami pork belly rump filet mignon t-bone.
+  field_media_type: Audio
+  field_media_audio: http://robballou.com/d/frog.mp3
+  field_media_year: 2013
+-
+  id: 4
+  title: Multimedia 4 Publication
+  field_media_body: Pastrami spare ribs shankle chicken. Ham short loin flank, tenderloin chuck meatball ball tip filet mignon. Ham hock beef ribs hamburger tri-tip pork. Shank capicola biltong pancetta pork chop meatball.
+  field_media_type: Publication
+  field_media_publication: http://robballou.com/d/4d0a296e13a78.pdf
+  field_media_year: 2013
+-
+  id: 5
+  title: Multimedia 5 Gallery
+  field_media_body: Pig pork loin andouille kevin bacon doner ribeye chicken ground round venison ham rump chuck. Shankle brisket pancetta spare ribs ribeye short loin. Pork fatback pork chop drumstick pastrami short loin. Andouille pig brisket, hamburger prosciutto venison jerky pork chop salami pastrami spare ribs landjaeger turkey turducken. Sirloin pork belly t-bone, prosciutto hamburger fatback venison shoulder tongue tri-tip short ribs bresaola jowl cow salami. Prosciutto sirloin ham hock, t-bone boudin chuck bacon pork chop doner meatloaf frankfurter.
+  field_media_type: Gallery
+  field_media_images:
+    - https://farm7.staticflickr.com/6230/6328224779_9ebbb53ab4_z_d.jpg
+    - https://farm9.staticflickr.com/8047/8087870185_7b6670fd4f_z_d.jpg
+    - https://farm1.staticflickr.com/31/58717656_7a86ff3948_z_d.jpg

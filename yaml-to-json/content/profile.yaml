@@ -1,0 +1,189 @@
+---
+-
+  id: 1
+  title: Cristina Lynch
+  body: Profile body
+  # field_profile_advisory_position:
+  # field_profile_advisory_term:
+  field_profile_board_position: Director
+  field_profile_board_term:
+    start: 2013
+    end: 2016
+  field_profile_email: cristina+lynch@example.com
+  field_profile_fellowship_dept: Gender and Women's Studies
+  field_profile_fellowship_terms:
+    - 1
+    - 2
+  # field_profile_photo:
+  field_profile_sort_name: Lynch Cristina
+  field_profile_types:
+    - Fellow
+    - Board of Directors
+-
+  id: 2
+  title: Jean Yates
+  field_profile_email: jean+yates@example.com
+  body: Profile body...
+  field_profile_types: Fellow
+  field_profile_fellowship_dept: Anthropology
+  field_profile_fellowship_terms: 3
+-
+  id: 3
+  title: Billie Elliott
+  field_profile_email: billie+elliott@example.com
+  body: Profile body...
+  field_profile_types: Fellow
+  field_profile_fellowship_dept: Demography
+  field_profile_fellowship_terms: 4
+-
+  id: 4
+  title: Tasha Cole
+  field_profile_email: tasha+cole@example.com
+  body: Profile body...
+  field_profile_types: Fellow
+  field_profile_fellowship_dept: Economics
+  field_profile_fellowship_terms: 5
+-
+  id: 5
+  title: Tony Cummings
+  field_profile_email: tony+cummings@example.com
+  body: Profile body...
+  field_profile_types: Fellow
+  field_profile_fellowship_dept: Ethnic Studies
+  field_profile_fellowship_terms: 6
+-
+  id: 6
+  title: Myron Lowe
+  field_profile_email: myron+lowe@example.com
+  body: Profile body...
+  field_profile_types: Fellow
+  field_profile_fellowship_dept: Gender and Women's Studies
+  field_profile_fellowship_terms: 7
+-
+  id: 7
+  title: Justin Warner
+  field_profile_email: justin+warner@example.com
+  body: Profile body...
+  field_profile_types:
+    - Fellow
+    - Board of Directors
+  field_profile_board_position: Director
+  field_profile_board_term:
+    start: 2013
+    end: 2016
+  field_profile_fellowship_dept: Geography
+  field_profile_fellowship_terms: 8
+-
+  id: 8
+  title: Lucia Shaw
+  field_profile_email: lucia+shaw@example.com
+  body: Profile body...
+  field_profile_types: Fellow
+  field_profile_fellowship_dept: History
+  field_profile_fellowship_terms: 9
+-
+  id: 9
+  title: Darin Lloyd
+  field_profile_email: darin+lloyd@example.com
+  body: Profile body...
+  field_profile_types: Fellow
+  field_profile_fellowship_dept: Linguistics
+  field_profile_fellowship_terms: 10
+-
+  id: 10
+  title: Omar Moran
+  field_profile_email: omar+moran@example.com
+  body: Profile body...
+  field_profile_types: Fellow
+  field_profile_fellowship_dept: Political Science
+  field_profile_fellowship_terms: 11
+-
+  id: 11
+  title: Ann Henry
+  field_profile_types: Advisory Committee
+  body: Profile body...
+  field_profile_advisory_position: Advisor
+  field_profile_advisory_term:
+    start: 2012
+    end: 2015
+-
+  id: 12
+  title: Lillie Hunter
+  field_profile_types: Advisory Committee
+  body: Profile body...
+  field_profile_advisory_position: Advisor
+  field_profile_advisory_term:
+    start: 2012
+    end: 2015
+-
+  id: 13
+  title: Bethany Obrien
+  field_profile_types: Advisory Committee
+  body: Profile body...
+  field_profile_advisory_position: Advisor
+  field_profile_advisory_term:
+    start: 2012
+    end: 2015
+-
+  id: 14
+  title: Ervin Gibbs
+  field_profile_types: Advisory Committee
+  body: Profile body...
+  field_profile_advisory_position: Advisor
+  field_profile_advisory_term:
+    start: 2012
+    end: 2015
+-
+  id: 15
+  title: Meghan Richardson
+  field_profile_types: Advisory Committee
+  body: Profile body...
+  field_profile_advisory_position: Advisor
+  field_profile_advisory_term:
+    start: 2012
+    end: 2015
+-
+  id: 16
+  title: Yvonne Harmon
+  field_profile_types: Advisory Committee
+  body: Profile body...
+  field_profile_advisory_position: Advisor
+  field_profile_advisory_term:
+    start: 2012
+    end: 2015
+-
+  id: 17
+  title: Lynn Sherman
+  field_profile_types: Advisory Committee
+  body: Profile body...
+  field_profile_advisory_position: Advisor
+  field_profile_advisory_term:
+    start: 2012
+    end: 2015
+-
+  id: 18
+  title: Harriet Marsh
+  field_profile_types: Advisory Committee
+  body: Profile body...
+  field_profile_advisory_position: Advisor
+  field_profile_advisory_term:
+    start: 2012
+    end: 2015
+-
+  id: 19
+  title: Norma Underwood
+  field_profile_types: Advisory Committee
+  body: Profile body...
+  field_profile_advisory_position: Advisor
+  field_profile_advisory_term:
+    start: 2012
+    end: 2015
+-
+  id: 20
+  title: Devin Nelson
+  field_profile_types: Advisory Committee
+  body: Profile body...
+  field_profile_advisory_position: Advisor
+  field_profile_advisory_term:
+    start: 2012
+    end: 2015

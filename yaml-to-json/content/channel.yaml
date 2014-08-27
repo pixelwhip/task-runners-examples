@@ -1,0 +1,29 @@
+---
+-
+  id: 1
+  title: Channel A
+  body: Emergent opportunity clean water, recognition scalable. Asylum solution criteria, plumpy'nut; environmental effectiveness. Public service empower, Millennium Development Goals, safeguards treatment, social impact donors achieve citizenry. Inclusive capitalism process, giving; UNICEF; Peace Corps rural development vulnerable citizens social worker. Sustainable microloans proper resources safety peace. Medical supplies; foster advancement implementation liberal.
+  field_channel_type: Department
+  field_featured_research_center: 2
+  field_related_departments:
+    - Economics
+    - History
+  field_related_research_centers:
+    - 1
+-
+  id: 2
+  title: Channel B
+  body: Lifting people up assistance, dignity diversity, accessibility catalyze political. Pride, leverage sustainability NGO, Millennium Development Goals solutions. Rights-based approach fellows recognize potential integrity network billionaire philanthropy. Inspire breakthroughs, development revitalize sustainable future truth campaign local making progress. Urban equity gun control relief governance Arab Spring. Save the world; forward-thinking The.
+  field_channel_type: Interdisciplinary Topic
+  field_features_research_center: 1
+  field_related_departments:
+    - Geography
+-
+  id: 3
+  title: Channel C
+  body: Women's rights partner healthcare reduce child mortality; worldwide interconnectivity positive social change progressive Action Against Hunger. Donation carbon emissions reductions, justice solution global network making progress Global South time of extraordinary change. Cross-agency coordination, international; foundation public service sustainability. Combat poverty end hunger think tank legal aid dignity future criteria.
+  field_channel_type: Department
+  field_features_research_center: 1
+  field_related_departments:
+    - Geography
+  field_retired: 1

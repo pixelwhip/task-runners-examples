@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "Research Center 1",
+    "body": "Shift, local solutions proper resources, gender challenges indicator. Evolution deep engagement assessment expert life-saving experience in the field. Implementation; celebrate, achieve; grantees; campaign social good.",
+    "field_rc_matrix_affiliated": 1,
+    "field_rc_website": "http://example.com"
+  },
+  {
+    "id": 2,
+    "title": "Research Center 2",
+    "body": "Plumpy'nut, activism human rights; underprivileged contribution democracy inclusive; human being women and children. Improving quality involvement incubation time of extraordinary change Martin Luther King Jr.",
+    "field_rc_matrix_affiliated": 0,
+    "field_rc_website": "http://example.com"
+  },
+  {
+    "id": 3,
+    "title": "Research Center 3",
+    "body": "Future end hunger challenges of our times think tank nonviolent resistance stakeholders Oxfam. Connect social worker maximize time of extraordinary change gun control. Catalyst, frontline.",
+    "field_rc_matrix_affiliated": 0,
+    "field_rc_website": "http://example.com"
+  }
+]

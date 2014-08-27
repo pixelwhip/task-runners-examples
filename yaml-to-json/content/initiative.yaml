@@ -1,0 +1,49 @@
+---
+-
+  id: 1
+  title: Initiative 1
+  body: Quis id sint non tempor enim eiusmod esse ullamco pariatur.
+  field_initiative_contacts:
+    - 1
+    - 2
+  field_initiative_image: https://farm8.staticflickr.com/7453/11660946305_15c7cd5b48_z_d.jpg
+  field_initiative_media:
+    - 1
+  field_initiative_overview: 1
+  field_initiative_status: 1
+  field_initiative_themes: Theme 1
+  field_initiative_update: Deserunt sunt nostrud esse aliqua ut aute nostrud qui voluptate ad.
+  field_initiative_years:
+    start: 2014
+    end: 2016
+-
+  id: 2
+  title: Initiative 2
+  body: Do do veniam cillum aliqua aliquip labore minim.
+  field_initiative_contacts:
+    - 3
+    - 4
+  field_initiative_image: https://farm8.staticflickr.com/7453/11660946305_15c7cd5b48_z_d.jpg
+  field_initiative_media:
+    - 2
+  field_initiative_overview: 2
+  field_initiative_status: 1
+  field_initiative_themes: Theme 1
+  field_initiative_update: Deserunt sunt nostrud esse aliqua ut aute nostrud qui voluptate ad.
+  field_initiative_years: 2014
+-
+  id: 3
+  title: Initiative 3
+  body: Do do veniam cillum aliqua aliquip labore minim.
+  field_initiative_contacts:
+    - 1
+    - 5
+  field_initiative_image: https://farm8.staticflickr.com/7453/11660946305_15c7cd5b48_z_d.jpg
+  field_initiative_media:
+    - 3
+  field_initiative_overview: 2
+  field_initiative_status: 1
+  field_initiative_themes: Theme 2
+  field_initiative_update: Deserunt sunt nostrud esse aliqua ut aute nostrud qui voluptate ad.
+  field_initiative_years: 2013
+  field_initiatve_past: 1
